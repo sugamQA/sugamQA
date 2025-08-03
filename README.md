@@ -1,4 +1,4 @@
-## Hi there i am a computer Engineer
+##  computer Engineer
 
 
 Here are some ideas to get you started:
